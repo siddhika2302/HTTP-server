@@ -1,0 +1,152 @@
+	
+
+	.Google {
+		margin: 0;
+  		position: absolute;
+ 		top: 37%;
+		left: 50%;
+ 		-ms-transform: translate(-50%, -50%);
+  		transform: translate(-50%, -50%);
+		}
+
+	.center{
+		margin: 0;
+  		position: absolute;
+ 		top: 53%;
+		left: 50%;
+ 		-ms-transform: translate(-50%, -50%);
+  		transform: translate(-50%, -50%);
+		}
+
+	#searchbox{
+		border-radius: 25px;
+		border: 1px solid blue;
+		padding: 20px; 
+		width:550px;
+		height: 5px;
+		font-family:Times New Roman;
+		font-size:20px;
+		}
+
+	.buttons{
+		background-color:lightblue;
+		width:150px;
+		height:43px;
+		margin:7px;
+		border-radius:5px;
+		}
+
+	.Pages{
+		position : fixed;
+		top: 0;
+		right:0;
+		margin:1.5%;
+		font-size:20px;
+		}
+
+
+
+
+	.Google2 {
+		margin: 0;
+	  	position: absolute;
+	 	top: 41%;
+		left: 50%;
+	 	-ms-transform: translate(-50%, -50%);
+	  	transform: translate(-50%, -50%);
+		}
+
+	#searchbox1 {
+		border-radius: 25px;
+		border: 1px solid blue;
+		padding: 20px; 
+		width:550px;
+		height: 5px;  
+		font-family:Times New Roman;
+		font-size:20px;
+		}
+
+	#button1{
+		background-color:lightblue;
+		border-radius:5px;
+		width:150px;
+		height:43px;
+		margin-left:35%;
+		}
+
+	.Pages1{
+		position : fixed;
+		top: 0;
+		right:0;
+		margin:2%;
+		font-size:20px;
+		}
+
+
+
+
+
+
+	.Search{
+		position : fixed;
+		top:17%;
+		margin-left:20px;
+		font-size:18px;
+		font-family:Arial;
+		}
+
+
+	.header{
+		position : fixed;
+		top: 0;
+		width : 100%;
+		height:60px;
+		background-color:lightgray;
+		color: lightgrey;
+		text-align:left;
+		}
+
+	.header2{
+		position : fixed;
+		top: 60px;
+		width : 100%;
+		font-family:Arial;
+		color:brown;
+		text-align:left;
+		margin-top:20px;
+		font-size:25px;
+		margin-left:20px;
+		}
+
+	.Searchbox2{
+		width:442px;	
+		height:25px;
+		font-family:Times New Roman;
+		font-size:20px;
+		}
+
+	.Pages2{
+		position : fixed;
+		top:5%;
+		right:0;
+		margin:2%;
+		font-size:20px;
+		}
+
+	#button2{
+		background-color:blue;
+		color:white;
+		width:175px;	
+		height:30px;
+		margin-left:40%;
+		font-weight: bold;
+		}
+
+
+
+
+
+
+
+
+

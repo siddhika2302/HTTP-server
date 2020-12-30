@@ -1,0 +1,44 @@
+HTTP Server
+
+Running SERVER:
+1. Run the server program as below : 
+	python3 HTTP.py <port_number>
+
+2. For testing, run the file :
+	python3 testing.py <port_number>
+
+______________________________________________________________________________________________________________________________________________________________________________
+
+For performing requests on CLient Side:
+
+1.) GET :
+open a new window on terminal and run the following command:
+	telnet 127.0.0.1 <port_number>
+	GET /filename
+
+2.) HEAD
+open a new window on terminal and run the following command:
+	telnet 127.0.0.1 <port_number>
+	HEAD /filename
+
+3.) PUT
+open a new window on terminal and run the following command:
+	telnet 127.0.0.1 <port_number>
+	PUT /filename
+	<host-name>
+	<file-type>
+	<content>
+
+4.)DELETE
+open a new window on terminal and run the following:
+	telnet 127.0.0.1 <port_number>
+	DELETE /filename
+	Username : <username>
+	Password : <password>
+	
+5.)POST
+	a)Open web browser and type "localhost:<port_number>/form.html"
+	b)Then fill the first and last name.
+	c)Then a file named forpost.txt will be created in the folder of the project. That file contains the data.
+	d) Successfull POST request will be shown on the browser.
+	
